@@ -1,3 +1,5 @@
+from line import line
+
 #Convert Celcius To Farenheit
 C=float(input('Enter Celcius to Convert into Fahrenheit'))
 F=C*(9/5)+32
